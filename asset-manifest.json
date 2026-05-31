@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/sosapp/static/css/main.a721acf9.css",
-    "main.js": "/sosapp/static/js/main.8ca7ffb9.js",
+    "main.js": "/sosapp/static/js/main.8a478ea1.js",
     "static/js/355.c452af9e.chunk.js": "/sosapp/static/js/355.c452af9e.chunk.js",
     "index.html": "/sosapp/index.html",
     "main.a721acf9.css.map": "/sosapp/static/css/main.a721acf9.css.map",
-    "main.8ca7ffb9.js.map": "/sosapp/static/js/main.8ca7ffb9.js.map",
+    "main.8a478ea1.js.map": "/sosapp/static/js/main.8a478ea1.js.map",
     "355.c452af9e.chunk.js.map": "/sosapp/static/js/355.c452af9e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a721acf9.css",
-    "static/js/main.8ca7ffb9.js"
+    "static/js/main.8a478ea1.js"
   ]
 }
